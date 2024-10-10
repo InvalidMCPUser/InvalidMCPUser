@@ -3,7 +3,7 @@
 
 - Programming Languages: C#, C++, JS, TS (Learning), Swift 🎮
 - Made unpopular Discord Bot 🤖
-- Creator of Unturned App on IOS (got removed) 😭
+- Creator of (unofficial) Unturned App on IOS (got removed) 😭
 - Currently developing Season 13 Gameserver 🔥
 - Founder of LegacyMP 👑
 
