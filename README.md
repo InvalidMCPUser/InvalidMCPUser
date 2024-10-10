@@ -13,7 +13,7 @@
 
 # Cool People
 
-- [venti](https://discord.com/users/1211351621951299658)
+- [venti](https://discord.com/users/1269310184451211264)
 - [privateuserttv](https://discord.com/users/917699408374677504)
 - [mrocznymiko](https://discord.com/users/566245007661596672)
 
