@@ -9,7 +9,7 @@
 
 # Useful
 
-- [Aqua](https://discord.gg/henchman) - OG Fortnite Emulator
+- [Aqua](https://discord.gg/henchman) - OG Fortnite Emulator (Season 13)
 
 # Cool People
 
