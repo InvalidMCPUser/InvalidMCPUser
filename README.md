@@ -9,7 +9,7 @@
 
 # Useful
 
-- [LegacyMP](https://discord.gg/legacymp) - OG Fortnite Emulator
+- [Aqua](https://discord.gg/henchman) - OG Fortnite Emulator
 
 # Cool People
 
