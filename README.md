@@ -1,11 +1,9 @@
 
 # About
 
-- Programming Languages: C#, C++, JS, TS (Learning), Swift 🎮
-- Made unpopular Discord Bot 🤖
-- Creator of (unofficial) Unturned App on IOS (got removed) 😭
+- Programming Languages: C#, C++, JS, TypeScript, Swift 🎮
 - Currently developing Season 13 Gameserver 🔥
-- Founder of LegacyMP 👑
+- Founder of Aqua 👑
 
 # Useful
 
@@ -15,7 +13,7 @@
 
 - [venti](https://discord.com/users/1269310184451211264)
 - [privateuserttv](https://discord.com/users/917699408374677504)
-- [mrocznymiko](https://discord.com/users/566245007661596672)
+- [peregrinatesoul](https://discord.com/users/566245007661596672)
 
 ## Socials 
 
