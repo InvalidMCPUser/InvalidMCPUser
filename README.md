@@ -7,12 +7,11 @@
 
 # Useful
 
-- [Aqua](https://discord.gg/henchman) - OG Fortnite Emulator (Season 13)
+- [Aqua](https://discord.gg/fortmp) - OG Fortnite Emulator (Season 13)
 
 # Cool People
 
-- [venti](https://discord.com/users/1269310184451211264)
-- [privateuserttv](https://discord.com/users/917699408374677504)
+- [cem](https://discord.com/users/1249615140731490337)
 - [peregrinatesoul](https://discord.com/users/566245007661596672)
 
 ## Socials 
