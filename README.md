@@ -1,7 +1,7 @@
 
 # About
 
-- Programming Languages: C#, C++, JS, TypeScript, Swift 🎮
+- Developing in C#, C++, JS, TypeScript, Swift 🎮
 - Currently developing Season 13 Gameserver 🔥
 - Founder of Aqua 👑
 
