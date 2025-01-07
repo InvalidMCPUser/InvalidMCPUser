@@ -1,4 +1,4 @@
-
+ 
 # About
 
 - Developing in C#, C++, JS, TypeScript, Swift 🎮
@@ -12,7 +12,7 @@
 # Cool People
 
 - [cem](https://discord.com/users/1249615140731490337)
-- [peregrinatesoul](https://discord.com/users/566245007661596672)
+- ~~[peregrinatesoul](https://discord.com/users/566245007661596672)~~
 
 ## Socials 
 
