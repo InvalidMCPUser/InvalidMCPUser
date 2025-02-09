@@ -2,12 +2,12 @@
 # About
 
 - Developing in C#, C++, JS, TypeScript, Swift 🎮
-- Currently developing Season 13 Gameserver 🔥
+- Currently developing Chapter 2 Season 4 Gameserver 🔥
 - Founder of Aqua 👑
 
 # Useful
 
-- [Aqua](https://discord.gg/fortmp) - OG Fortnite Emulator (Season 13)
+- [Aqua](https://discord.gg/fortmp) - OG Fortnite Emulator (Season 14)
 
 # Cool People
 
