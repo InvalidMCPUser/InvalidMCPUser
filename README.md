@@ -17,5 +17,5 @@
 
 ## Socials 
 
-- [Discord](https://discord.com/users/1211351621951299658)
+- [Discord](https://discord.com/users/1336037656601038861)
 - [???](https://e-z.bio/onlyfans)
