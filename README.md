@@ -13,7 +13,7 @@
 
 - [Aqua](https://discord.gg/fortmp) - Chapter 2 Season 3 OGFN Project
    
-## Socials 
+# Socials 
 
 - [Discord](https://discord.com/users/1336037656601038861)
 - [NameMC](https://pl.namemc.com/profile/paczkomatallegro.1)
