@@ -3,19 +3,19 @@
 # About
 
 - Developing in C#, C++, JS, TypeScript, Swift 🎮
-- Currently developing private [OG Fortnite Backend](https://github.com/xy8q/nexus) 🔥
+- Currently developing private [OGFN Backend](https://github.com/xy8q/nexus) 🔥
 - Founder of Aqua 👑
+- Develops OGFN Backends 🐱‍👤
+- MongoDB Lover 🔰
+- Currently using Windows 10 Enterprise LTSC 1809 🥰
 
 # Useful
 
-- [Aqua](https://discord.gg/fortmp) - OG Fortnite Emulator (Season 14)
-
-# Cool People
-
-- [cem](https://discord.com/users/1249615140731490337)
-- ~~[peregrinatesoul](https://discord.com/users/566245007661596672)~~
-
+- [Aqua](https://discord.gg/fortmp) - Chapter 2 Season 3 OGFN Project
+   
 ## Socials 
 
 - [Discord](https://discord.com/users/1336037656601038861)
+- [NameMC](https://pl.namemc.com/profile/paczkomatallegro.1)
+- [Another NameMC](https://pl.namemc.com/profile/astolfoparty.1)
 - [???](https://e-z.bio/onlyfans)
