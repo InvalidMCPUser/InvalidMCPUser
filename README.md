@@ -7,7 +7,7 @@
 - Founder of Aqua 👑
 - Loves 11.31, 12.41, 8.51 and 7.40 💾
 - Develops OGFN Backends 🐱‍👤
-- MongoDB Lover 🔰
+- MangoDB Lover 🔰
 - Currently using Windows 10 Enterprise LTSC 1809 🥰
 
 # Useful
