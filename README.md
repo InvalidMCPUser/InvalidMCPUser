@@ -12,7 +12,7 @@
 
 # Useful
 
-- [Aqua](https://discord.gg/fortmp) - Chapter 2 Season 3 OGFN Project
+- ~~[Aqua](https://discord.gg/fortmp) - Chapter 2 Season 3 OGFN Project~~ Something better is coming soon...
    
 # Socials 
 
