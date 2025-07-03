@@ -3,10 +3,10 @@
 # About
 
 - Developing in C#, C++, JS, TypeScript, Swift 🎮
-- Founder of Aqua 👑
+- Founder of Shade (formally known as Aqua) 👑
 - Loves 11.31, 12.41, 8.51 and 7.40 💾
-- Develops OGFN Backends 🐱‍👤
-- MangoDB Lover 🔰
+- Develops OGFN Backends 🔙🔚
+- MongoDB User 🔰
 - Currently using Windows 10 Enterprise LTSC 1809 🥰
 
 # Maintaining
