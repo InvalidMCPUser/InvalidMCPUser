@@ -1,4 +1,4 @@
-` ![Banner](https://cdn2.unrealengine.com/12br-loserfruit-blogheader-1920x1080-257064747.jpg)
+![Banner](https://images.hdqwalls.com/download/fortnite-chapter-2-j6-1920x1080.jpg)
  
 # About
 
