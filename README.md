@@ -3,16 +3,17 @@
 # About
 
 - Developing in C#, C++, JS, TypeScript, Swift 🎮
-- Currently developing private [OGFN Backend](https://github.com/xy8q/nexus) 🔥
 - Founder of Aqua 👑
 - Loves 11.31, 12.41, 8.51 and 7.40 💾
 - Develops OGFN Backends 🐱‍👤
 - MangoDB Lover 🔰
 - Currently using Windows 10 Enterprise LTSC 1809 🥰
 
-# Useful
+# Maintaining
 
-- [Shade](https://discord.gg/shadeogfn)
+- [Shade](https://discord.gg/shadeogfn) - Chapter 2 Season 2 OGFN
+- [Nexus](https://github.com/xy8q/nexus) - Universal flexible private OGFN Backend
+- [Astro](https://github.com/xy8q/Astro) - 12.41 Stable Gameserver with AI
    
 # Socials 
 
