@@ -1,4 +1,4 @@
- ![Banner](https://cdn2.unrealengine.com/12br-loserfruit-blogheader-1920x1080-257064747.jpg)
+` ![Banner](https://cdn2.unrealengine.com/12br-loserfruit-blogheader-1920x1080-257064747.jpg)
  
 # About
 
@@ -12,7 +12,7 @@
 
 # Useful
 
-- ~~[Aqua](https://discord.gg/fortmp) - Chapter 2 Season 3 OGFN Project~~ Something better is coming soon...
+- [Shade](https://discord.gg/shadeogfn)
    
 # Socials 
 
