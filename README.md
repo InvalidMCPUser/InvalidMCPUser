@@ -1,11 +1,12 @@
 ![Banner](https://images.hdqwalls.com/download/fortnite-chapter-2-j6-1920x1080.jpg)
 
-<center>
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-darkblue?style=for-the-badge&logo=c%2B%2B">
-<img alt="Static Badge" src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript">
-<img alt="Static Badge" src="https://img.shields.io/badge/Tauri-%2396f1ff?style=for-the-badge&logo=tauri">
-<img src="https://komarev.com/ghpvc/?username=xy8q&style=for-the-badge"></img
-></center>
+<p align="center">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-darkblue?style=for-the-badge&logo=c%2B%2B">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript">
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-%2396f1ff?style=for-the-badge&logo=tauri">
+  <img src="https://komarev.com/ghpvc/?username=xy8q&style=for-the-badge">
+</p>
+
 
 # About
 - Developing in C#, C++, JS, TypeScript, Swift 🎮
