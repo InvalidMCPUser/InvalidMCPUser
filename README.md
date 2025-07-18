@@ -9,7 +9,8 @@
 
 
 # About
-- Developing in C#, C++, JS, TypeScript, Swift 🎮
+- Developing in C++, JS, C# 🎮
+- Learning GOLang 🙂 
 - Founder of Shade (formally known as Aqua) 👑
 - Loves 11.31, 12.41, 8.51 and 7.40 💾
 - Full Stack Developer 📈
